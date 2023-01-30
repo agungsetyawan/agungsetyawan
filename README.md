@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @agungsetyawan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Agung Setyawan
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit massa tellus, vitae lobortis libero bibendum blandit. Integer et purus orci.
 
-<!---
-agungsetyawan/agungsetyawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⤷ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vehicula ipsum nunc, condimentum congue magna blandit mollis. Proin semper lorem non vehicula finibus. Maecenas porta tempor metus pellentesque volutpat. Vivamus ornare eros nisi, a semper orci pretium nec. Etiam a eleifend nibh morbi.
+
+ <a aligh="left" href="https://setyawan.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/01setyawan" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/01setyawan" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+
+⚐ Based in Jakarta, Indonesia
+
+ϟ Currently work as a front-end developer
+
+
+
+ ## Skills
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://vuejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vue.svg" alt="Vue" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://supabase.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/supabase.svg" alt="Supabase" width="25" height="25" /></a> 
